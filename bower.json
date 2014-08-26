@@ -1,6 +1,6 @@
 {
-  "name": "font-awesome",
-  "description": "Font Awesome",
+  "name": "font-awesome-openam",
+  "description": "Font Awesome OpenAM compatible ",
   "version": "4.1.0",
   "keywords": [],
   "homepage": "http://fontawesome.io",
