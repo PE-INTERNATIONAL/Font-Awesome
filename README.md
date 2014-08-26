@@ -1,4 +1,4 @@
-#[Font Awesome v4.1.0](http://fontawesome.io)
+#[Font Awesome v4.1.0 with OpenAM compatibility](http://fontawesome.io)
 ###The iconic font and CSS framework
 
 Font Awesome is a full suite of 439 pictographic icons for easy scalable vector graphics on websites, created and

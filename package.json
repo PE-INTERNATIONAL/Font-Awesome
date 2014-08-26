@@ -1,35 +1,21 @@
 {
-  "name": "font-awesome",
-  "description": "The iconic font and CSS framework",
+  "name": "font-awesome-openam",
+  "description": "The iconic font and CSS framework compatible with OpenAM",
   "version": "4.1.0",
   "keywords": ["font", "awesome", "fontawesome", "icon", "font", "bootstrap"],
   "homepage": "http://fontawesome.io/",
   "bugs": {
-    "url" : "http://github.com/FortAwesome/Font-Awesome/issues"
+    "url" : "https://github.com/PE-INTERNATIONAL/Font-Awesome/issues"
   },
   "author": {
-    "name": "Dave Gandy",
+    "name": "Daniel Main",
     "email": "dave@fontawesome.io",
-    "web": "http://twitter.com/davegandy"
+    "web": "http://pe-international.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FortAwesome/Font-Awesome.git"
+    "url": "https://github.com/PE-INTERNATIONAL/Font-Awesome.git"
   },
-  "contributors": [
-    {
-      "name": "Rob Madole",
-      "web": "http://twitter.com/robmadole"
-    },
-    {
-      "name": "Geremia Taglialatela",
-      "web": "http://twitter.com/gtagliala"
-    },
-    {
-      "name": "Travis Chase",
-      "web": "http://twitter.com/supercodepoet"
-    }
-  ],
   "licenses": [
     {
       "type": "OFL-1.1",
